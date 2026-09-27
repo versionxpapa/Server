@@ -1,0 +1,28 @@
+{
+  "password": "YOURPAPA",
+  "engineTitle": "SIGNAL PRO",
+  "engineSubtitle": "30s Engine By • 版 本 • Ｘ",
+  "telegram": {
+    "handle": "@ERROR_404_SYSTEM",
+    "url": "https://t.me/ERROR_404_SYSTEM"
+  },
+  "buttons": [
+    {
+      "id": "signal",
+      "label": "Signal",
+      "type": "native"
+    },
+    {
+      "id": "game",
+      "label": "HGNICE",
+      "type": "iframe",
+      "url": "https://www.hgnice9.com/#/register?invitationCode=458321789589"
+    },
+    {
+      "id": "dkwin",
+      "label": "DKWIN",
+      "type": "iframe",
+      "url": "https://dkwin16.com/#/register?invitationCode=22478995589"
+    }
+  ]
+}
